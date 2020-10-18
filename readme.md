@@ -2,14 +2,13 @@
 
 # Demo pictures below.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff91a309-b28b-4343-bcc9-8b6d5d59a83c/emojidraw_4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff91a309-b28b-4343-bcc9-8b6d5d59a83c/emojidraw_4.png)
+![assets/emojidraw_1](assets/emojidraw_1.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/962bd5f9-46c4-4d55-94d6-68e46cc188f8/emojidraw_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/962bd5f9-46c4-4d55-94d6-68e46cc188f8/emojidraw_1.png)
+![assets/emojidraw_2](assets/emojidraw_2.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f23ba539-466f-4a4d-a6be-3d512a0f240d/emojidraw_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f23ba539-466f-4a4d-a6be-3d512a0f240d/emojidraw_2.png)
+![assets/emojidraw_3](assets/emojidraw_3.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23c2298e-b0af-4616-a54d-3556437791a5/emojidraw_3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23c2298e-b0af-4616-a54d-3556437791a5/emojidraw_3.png)
-
+![assets/emojidraw_4](assets/emojidraw_4.png)
 # Reference
 
 I played around with brush tools with the help with amazing tutorials made by Max Bittker. [Here is his final code on sandbox.](https://codesandbox.io/s/interpolated-lines-checkpoint-zgu34) 
