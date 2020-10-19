@@ -2,7 +2,9 @@
 import {
     pointsAlongLine
 } from "./vector.js"
-// import { saveAs } from 'file-saver';
+
+import { saveAs } from './FileSaver.js';
+
 
 let canvas = document.getElementById("canvas");
 let ctx = canvas.getContext("2d");
@@ -68,6 +70,7 @@ clear.addEventListener("click", function () {
         ctx.fillStyle = "rgba(0,0,0,0.6)";
     }
 });
+
 download.addEventListener("click", function () {
     state = "download";
     console.log("download!");

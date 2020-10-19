@@ -61,7 +61,8 @@ function pointsAlongLine(startx, starty, endx, endy, spacing) {
   return points;
 }
 
-export { sub,
+export {
+  sub,
   add,
   magnitude,
   normalize,

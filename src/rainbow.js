@@ -103,6 +103,13 @@ function paintMove(x, y) {
     // ctx.fillStyle = `rgba(${r}, 0, 0, .8)`;
 
     //      }
+
+    //calculate the hold time over and over 
+    // do not need endtime and holdtime - just make it local not global 
+    endTime = Date.now();
+    console.log('endTime', endTime)
+    holdTime = (endTime - startTime) / 1000; //in seconds
+    console.log('holdTime', holdTime)
 }
 
 function paintEnd(x, y) {
@@ -112,10 +119,7 @@ function paintEnd(x, y) {
     ctx.arc(x, y, 20, 0, 2 * Math.PI);
     ctx.closePath();
     ctx.stroke();
-    endTime = Date.now();
-    console.log('endTime', endTime)
-    holdTime = (endTime - startTime) / 1000; //in seconds
-    console.log('holdTime', holdTime)
+
 
 }
 
